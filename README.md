@@ -1,2 +1,3 @@
-# cs97
-CS97: Generative AI
+# culinaryAI
+
+![image](Logo.png)
